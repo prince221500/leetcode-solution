@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
+| [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
