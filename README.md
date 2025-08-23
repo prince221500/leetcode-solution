@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/prince221500/leetcode-solution/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince221500/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prince221500/leetcode-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +46,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
