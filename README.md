@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prince221500/leetcode-solution/tree/master/0202-happy-number) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prince221500/leetcode-solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/prince221500/leetcode-solution/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prince221500/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prince221500/leetcode-solution/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
