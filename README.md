@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
+| [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 | [0045-jump-game-ii](https://github.com/prince221500/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prince221500/leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince221500/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
