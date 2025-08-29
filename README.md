@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/prince221500/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -93,4 +94,8 @@
 | [0012-integer-to-roman](https://github.com/prince221500/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prince221500/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/prince221500/leetcode-solution/tree/master/0058-length-of-last-word) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prince221500/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
