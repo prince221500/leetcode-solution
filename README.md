@@ -2,7 +2,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
+|  |  
 | ------- |
 | [0001-two-sum](https://github.com/prince221500/leetcode-solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
