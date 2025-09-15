@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince221500/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince221500/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prince221500/leetcode-solution/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince221500/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
@@ -70,6 +71,7 @@
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prince221500/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/prince221500/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince221500/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prince221500/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prince221500/leetcode-solution/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/prince221500/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince221500/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince221500/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
