@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/prince221500/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prince221500/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## String Matching
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince221500/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
