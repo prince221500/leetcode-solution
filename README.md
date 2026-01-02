@@ -24,6 +24,7 @@
 | [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/prince221500/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0679-24-game](https://github.com/prince221500/leetcode-solution/tree/master/0679-24-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/prince221500/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/prince221500/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prince221500/leetcode-solution/tree/master/0202-happy-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/prince221500/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
 | ------- |
