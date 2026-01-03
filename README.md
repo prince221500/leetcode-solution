@@ -37,6 +37,7 @@
 | [0198-house-robber](https://github.com/prince221500/leetcode-solution/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/prince221500/leetcode-solution/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prince221500/leetcode-solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Math
 |  |
 | ------- |
