@@ -27,6 +27,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince221500/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/prince221500/leetcode-solution/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prince221500/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## String Matching
 |  |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prince221500/leetcode-solution/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
