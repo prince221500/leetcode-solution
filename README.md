@@ -27,6 +27,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince221500/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/prince221500/leetcode-solution/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prince221500/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2751-robot-collisions](https://github.com/prince221500/leetcode-solution/tree/master/2751-robot-collisions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/prince221500/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/prince221500/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prince221500/leetcode-solution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/prince221500/leetcode-solution/tree/master/0274-h-index) |
+| [2751-robot-collisions](https://github.com/prince221500/leetcode-solution/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +165,12 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/prince221500/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/prince221500/leetcode-solution/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/prince221500/leetcode-solution/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
